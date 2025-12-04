@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+pillow
+opencv-python-headless
+mediapipe
+streamlit-drawable-canvas
+hydra-core
+omegaconf
+sounddevice
+torch
+torchvision
+# Installing SAM-2 directly from the source
+git+https://github.com/facebookresearch/sam2.git@2b90b9f5ceec907a1c18123530e92e794ad901a4

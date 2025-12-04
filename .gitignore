@@ -1,0 +1,16 @@
+venv/
+.env
+__pycache__/
+.DS_Store
+# Data files that might be huge
+*.csv
+
+# Model weights
+*.pt
+*.h5
+*.pkl
+*.zip
+*.jpg
+*.png
+*.jpeg
+*.mp4
