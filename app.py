@@ -137,7 +137,7 @@ if module_selection == "Home":
         "Module 4: Stitching & SIFT": "https://drive.google.com/drive/folders/1oV4fqWuvTSKlLdns7C1X-dXLYkjddyXX?usp=sharing",
         "Module 5: Object Tracking": "https://drive.google.com/drive/folders/1Qk4BclWMD96tXUYTkHLu_zmWS8Gou-31?usp=share_link",
         "Module 7: Stereo & Pose Estimation": "https://drive.google.com/file/d/1hw7WnKYiz8iZSdGbpCGFbeT2utuHTNhq/view?usp=share_link",
-        "Evaluation Video": "https://drive.google.com/file/d/1hw7WnKYiz8iZSdGbpCGFbeT2utuHTNhq/view?usp=share_link"
+        "Evaluation Table": "https://docs.google.com/document/d/1jifQWGcU5qJg8X4NI7QKkRv8MjmkPiyZasqj4_I-rDc/edit?usp=sharing"
     }
 
     # Iterate and display links
