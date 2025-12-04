@@ -47,7 +47,7 @@ import torch
 from sam2.sam2_image_predictor import SAM2ImagePredictor
 
 # Ensure 'modules' folder is in the python path
-if "modules" not in sys.path:
+if "Modules" not in sys.path:
     sys.path.append("modules")
 
 # Import Custom Modules
