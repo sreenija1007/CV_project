@@ -48,7 +48,7 @@ from sam2.sam2_image_predictor import SAM2ImagePredictor
 
 # Ensure 'modules' folder is in the python path
 if "Modules" not in sys.path:
-    sys.path.append("modules")
+    sys.path.append("Modules")
 
 # Import Custom Modules
 from Module1 import measure_tool
