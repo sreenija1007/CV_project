@@ -48,8 +48,8 @@ To run this app on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/sreenija1007/CV_project.git
+    cd CV_project
     ```
 
 2.  **Create a Virtual Environment (Optional but recommended):**
